@@ -1,0 +1,7 @@
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\bin\Debug\Phase1Selection4.9.exe.config
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\bin\Debug\Phase1Selection4.9.exe
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\bin\Debug\Phase1Selection4.9.pdb
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\obj\Debug\Phase1Selection4.9.csproj.AssemblyReference.cache
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\obj\Debug\Phase1Selection4.9.csproj.CoreCompileInputs.cache
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\obj\Debug\Phase1Selection4.9.exe
+D:\practice project\Phase1Selection4.9\Phase1Selection4.9\obj\Debug\Phase1Selection4.9.pdb
